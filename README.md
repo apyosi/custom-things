@@ -49,8 +49,6 @@ You can reach me for any questions on the github repo page: [https://github.com/
 
 <h2 id="questions">💌 Acknowledgments</h2>
 
-Use this space to list resources you find helpful and would like to give credit to!
-
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 * [Markdown License badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
