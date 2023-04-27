@@ -9,7 +9,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt=""></a><br>
 <h2><a href="https://www.handironingservice.co.uk/" target="_blank"">View the site</a></h2><br>
 </div>
-<h3 align="center"><a href="#description">Description</a> &bull; <a href="#screenshots">Screenshots</a> &bull; <a href="#license">License</a> &bull; <a href="#questions">Questions</a> &bull; <a href="#acknowledgments">Acknowledgments</a></h3>
+<h2 align="center"><a href="#description">Description</a> &bull; <a href="#screenshots">Screenshots</a> &bull; <a href="#license">License</a> &bull; <a href="#questions">Questions</a> &bull; <a href="#acknowledgments">Acknowledgments</a></h2>
 
 <h2 id="description">🧾 Description</h2>
 
