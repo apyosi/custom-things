@@ -11,22 +11,9 @@
 </div>
 
 <hr>
-<p align="center"><a href="#description">Description</a> &bull; <a href="#screenshots">Screenshots</a> &bull; <a href="#installation">Installation</a> &bull; <a href="#usage">Usage</a> &bull; <a href="#contribution">Contribution</a> &bull; <a href="#tests">Tests</a> &bull; <a href="#license">License</a> &bull; <a href="#questions">Questions</a></p>
+<p align="center"><a href="#description">Description</a> &bull; <a href="#screenshots">Screenshots</a> &bull; <a href="#license">License</a> &bull; <a href="#questions">Questions</a> &bull; <a href="#acknowledgments">Acknowledgments</a></p>
 <hr>
-<details open>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#description">Description</a></li>
-    <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#built-with">Built with</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contribution">Contribution</a></li>
-    <li><a href="#tests">Tests</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#questions">Questions</a></li>
-  </ol>
-</details>
+
 
 <h2 id="description">🧾 Description</h2>
 
